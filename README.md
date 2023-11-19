@@ -71,7 +71,7 @@ Contributions to GroupMetrics are welcome! Please follow these steps to contribu
 Distributed under the MIT License.
 
 ## Contact
-
+Let me know if you have any good ideas or bug fixes for this. I'm a chill dude, so please feel free to reach out. I actually like it. 
 Will - will@willmaxcy.com
 
 ## Acknowledgements
