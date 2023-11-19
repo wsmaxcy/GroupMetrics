@@ -40,19 +40,19 @@ python groupmetrics.py
 
 ## Getting Started
 
-To use GroupMetrics, you'll need to export your GroupMe chat data in a `.json` file. Here's how to do it:
+To use GroupMetrics, you'll need to export your GroupMe chat data in a `message.json` file. Here's how to do it:
 
 1. Visit [GroupMe Export Page](https://web.groupme.com/profile/export).
 2. Choose the chat you want to export and select the option for messages only.
-3. Once your export is ready, download the `.json` file to your local machine.
+3. Once your export is ready, download the `message.json` file to your local machine.
 
 ### Importing Your Data
 
-With your `.json` file ready, you can now import it into GroupMetrics:
+With your `message.json` file ready, you can now import it into GroupMetrics:
 
 1. Open GroupMetrics.
 2. Click the "Load JSON File" button.
-3. Select the `.json` file you downloaded from the GroupMe Export Page.
+3. Select the `message.json` file you downloaded from the GroupMe Export Page.
 
 Upon loading the file, GroupMetrics will automatically generate various graphs and metrics based on the chat data provided by the `.json` file.
 
