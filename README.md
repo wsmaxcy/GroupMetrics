@@ -1,6 +1,8 @@
 # GroupMetrics
 
-GroupMetrics is a powerful analytics tool for GroupMe chat groups, enabling users to visualize and gain insights into chat activity, user engagement, and more.
+GroupMetrics is a fun little analytics tool for GroupMe chat groups, enabling users to visualize and gain insights into chat activity, user engagement, and more.
+
+![example](https://github.com/wsmaxcy/Group-Me/blob/main/data/ach.png?raw=true)
 
 ## Features
 
