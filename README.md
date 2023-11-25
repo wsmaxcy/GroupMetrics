@@ -19,7 +19,7 @@ GroupMetrics is a fun little analytics tool for GroupMe chat groups, enabling us
 To get started with GroupMetrics, follow these steps:
 
 ```powershell
-git clone https://github.com/yourusername/GroupMetrics.git
+git clone https://github.com/wsmaxcy/GroupMetrics.git
 ```
 
 ```powershell
